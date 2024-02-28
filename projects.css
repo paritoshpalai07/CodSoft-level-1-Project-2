@@ -77,10 +77,19 @@
   background-size: cover;
 }
 
-.blog-preview-card .project-image {
+.landing-page .project-image {
   height: 15.625rem;
   width: 100%;
-  background-image: url("images/blog-preview-card.png");
+  background-image: url("images/landing-page.png");
   background-position: center;
   background-size: cover;
 }
+
+/* .portfolio .project-image{
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/portfolio.png");
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #7a7a7a;
+} */
